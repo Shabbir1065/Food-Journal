@@ -8,6 +8,7 @@ can see in the image below through the creation of different objects to store th
 
 Here are some more photos of the project:
 ![Screenshot_1662073918](https://user-images.githubusercontent.com/46404712/188028014-8bc10cdf-be32-4316-a40d-bf8e08648f05.png)
+<img src="https://user-images.githubusercontent.com/46404712/188028014-8bc10cdf-be32-4316-a40d-bf8e08648f05.png" width="100">
 ![Screenshot_1662073925](https://user-images.githubusercontent.com/46404712/188028027-70c98513-48a5-44c7-9701-68493aea50d9.png)
 ![Screenshot_1662073997](https://user-images.githubusercontent.com/46404712/188028037-7bcbd5c1-fc0f-46a4-a163-4ec99b5d4792.png)
 ![Screenshot_1662074020](https://user-images.githubusercontent.com/46404712/188028044-acfeae4f-227a-4ff7-88e9-9e1bc0f37661.png)
