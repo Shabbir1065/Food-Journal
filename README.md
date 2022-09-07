@@ -1,5 +1,5 @@
 # Food-Journal
-Password to access the app is "5237"
+Password to access the app is 5237
 In this app, users are able to log what food they eat, the exercises they have been doing as well as use a to-do list all within this one app.
 
 Here is an analysis of how the different views communicated with each other while being ran. The project also uses OOP principles as one
